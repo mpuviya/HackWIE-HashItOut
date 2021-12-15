@@ -10,7 +10,7 @@
 ### Steps to be Followed:
 1. Run main server, server1, server2, server3, server4.
 2. Run dataProtection.ipynb in Jupyter notebook.
-3. Enter input credential [[in password box]]("#") in Untitled.ipynb in Jupyter notebook.
+3. Enter input credential [[in password box]]("#") in dataProtection.ipynb in Jupyter notebook.
 4. Then the actual data is converted into an encoded key value by encryption technique is then directly split up and passed into 4 servers.
 5. The data will combine at the main Database server.
 6. Finally, The Data will be secured at any instance of databreach in the network layer.
